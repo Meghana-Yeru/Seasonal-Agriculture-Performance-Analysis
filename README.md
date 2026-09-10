@@ -111,7 +111,7 @@ VOIS AICTE Aug Batch 2026–2027
 Seasonal-Agriculture-Performance-Analysis/
 │
 ├── Major Project_Seasonal Agriculture Performance Analysis.pdf
-├── seasonal_agriculture_performance_dataset.csv
-├── Yeru Meghana-VOIS_Major_Project_PPT_Submission.pptx
 ├── README.md
-└── Seasonal_Agriculture_Performance_Analysis.ipynb
+├── Seasonal_Agriculture_Performance_Analysis.ipynb
+├── Yeru Meghana-VOIS_Major_Project_PPT_Submission.pptx
+└── seasonal_agriculture_performance_dataset.csv
